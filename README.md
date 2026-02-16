@@ -4,10 +4,11 @@ A comprehensive, full-stack healthcare dashboard application built with Next.js 
 
 ## � Demo
 
-<video src="demo/demo.mov" controls width="100%">
-  Your browser does not support the video tag. 
-  <a href="demo/demo.mov">Download the demo video</a>
-</video>
+> **Note**: Demo video is available in the `demo/` folder (68.48 MB). For GitHub viewing, please download and watch locally
+
+<!-- Uncomment after uploading to YouTube/Vimeo:
+[![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+-->
 
 ## �🚀 Features
 
